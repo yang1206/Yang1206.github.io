@@ -1,3 +1,14 @@
+---
+title: ts配置!
+date: 2022-06-011
+updated: 2022-06-11
+categories:  笔记 TypeScrip
+tags:
+  - TypeScrip
+  - 笔记
+top: 1
+---
+
 ```json
 "compilerOptions": {
   "incremental": true, // TS编译器在第一次编译之后会生成一个存储编译信息的文件，第二次编译会在第一次的基础上进行增量编译，可以提高编译的速度
